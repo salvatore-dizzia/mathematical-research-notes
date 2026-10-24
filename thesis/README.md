@@ -1,0 +1,1 @@
+Master's thesis written in Italian, studying a stochastic optimization framework for goal-based investing. The work combines stochastic control, convex optimization, and Hamilton–Jacobi–Bellman equations to model investment strategies tailored to an investor's financial goals and priorities.
